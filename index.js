@@ -53,5 +53,5 @@ let Question = prompt(
 if (Question) {
   // Number(Question);
   parseInt(Question);
-  describeTemperature(Question);
+  // describeTemperature(Question);
 }
